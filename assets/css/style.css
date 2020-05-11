@@ -6,6 +6,13 @@ body, html {
   scroll-behavior: smooth;
 }
 
+a, a:hover, a:focus, a:active {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* Main header */
+
 .hero-image {
   background-image: linear-gradient(rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35)), url("../images/main-hero.jpg");
   height: 100%;
@@ -29,9 +36,18 @@ body, html {
   font-family: 'Montserrat', sans-serif;
 }
 
+/* Main header */
+
+/* Navigation */
+
 .navbar {
   font-family: 'Jost', sans-serif;
 }
+
+
+/* Navigation */
+
+/* Page sections */
 
 #facts { 
   min-height: 100vh;
@@ -51,8 +67,15 @@ body, html {
   font-family: 'Jost', sans-serif;
 }
 
+ul {
+  padding: 0;
+  line-height: 1.4em;
+}
+
 #contact { 
   min-height: 100vh;
   padding-top: 200px;
-  font-family: 'Jost', sans-serif;
+  font-family: 'Jost', sans-serif; 
 }
+
+/* Page sections */
