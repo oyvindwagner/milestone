@@ -27,5 +27,6 @@ Tutorials by Michal Szymanski at https://mdbootstrap.com/user/ascensus/
 
 ## Code
 Code and documentation from Bootstrap at https://getbootstrap.com/docs/4.1/
+Page image divider code courtesy of Xahed Kamal - https://stackoverflow.com/users/3866364/xahed-kamal
 
 This website is built for educational purposes only.
