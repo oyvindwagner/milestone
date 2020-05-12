@@ -19,11 +19,13 @@ All images from https://www.unsplash.com and from the following photographers:
 https://unsplash.com/@hendrikmorkel
 https://unsplash.com/@villepalmu
 https://unsplash.com/@wandervisions
+https://unsplash.com/@vald
+https://unsplash.com/@marcuslofvenberg
 
 ## Tutorials used:
 Tutorials by Michal Szymanski at https://mdbootstrap.com/user/ascensus/
 
 ## Code
-Page image divider code courtesy of Xahed Kamal - https://stackoverflow.com/users/3866364/xahed-kamal
+Code and documentation from Bootstrap at https://getbootstrap.com/docs/4.1/
 
 This website is built for educational purposes only.

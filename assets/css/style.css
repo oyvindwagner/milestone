@@ -14,8 +14,8 @@ a, a:hover, a:focus, a:active {
 /* Main header */
 
 .hero-image {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)), url("../images/main-image.jpg");
-  height: 100%;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)), url("../images/header-image.jpg");
+  height: 75%;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -51,21 +51,18 @@ a, a:hover, a:focus, a:active {
 /* Page sections */
 
 #facts { 
-  min-height: 100vh;
-  padding-top: 100px;
   font-family: 'Jost', sans-serif;
+  margin: 0 auto 40px;
 }
 
 #get-here { 
-  min-height: 100vh;
-  padding-top: 100px;
   font-family: 'Jost', sans-serif;
+  margin: 0 auto 100px;
 }
 
-#plan-trips { 
-  min-height: 100vh;
-  padding-top: 100px;
+#plan-trip { 
   font-family: 'Jost', sans-serif;
+  margin: 0 auto 60px;
 }
 
 ul {
@@ -74,14 +71,15 @@ ul {
 }
 
 #contact { 
-  min-height: 100vh;
-  padding-top: 200px;
   font-family: 'Jost', sans-serif;
 }
 
-/* Page sections */
+.my-4 {
+  text-align: center;
+}
 
-/* Page divider */ 
+
+/* Page sections */
 
 .line-icon {
   box-sizing: border-box;
@@ -91,7 +89,9 @@ ul {
   background-repeat: no-repeat;
   background-position: center center;
   font-size:0;
-  height: 40px;
+  height: 60px;
+  padding-top: 50px;
+  padding-bottom: 200px;
 }
 .line-icon::before, .line-icon::after {
   box-sizing: border-box;
@@ -110,5 +110,3 @@ ul {
   -webkit-transform: translatey(-50%);
   transform: translatey(-50%);
 }
-
-/* Page divider */ 
