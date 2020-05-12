@@ -14,7 +14,7 @@ a, a:hover, a:focus, a:active {
 /* Main header */
 
 .hero-image {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)), url("../images/main-hero.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)), url("../images/main-image.jpg");
   height: 100%;
   background-position: center;
   background-repeat: no-repeat;
@@ -81,11 +81,13 @@ ul {
 
 /* Page sections */
 
+/* Page divider */ 
+
 .line-icon {
   box-sizing: border-box;
   position:relative;
   text-align: center;
-  background-image: url('../images/sarek-divider.jpg');
+  background-image: url('../images/divider-image.jpg');
   background-repeat: no-repeat;
   background-position: center center;
   font-size:0;
@@ -108,3 +110,5 @@ ul {
   -webkit-transform: translatey(-50%);
   transform: translatey(-50%);
 }
+
+/* Page divider */ 
