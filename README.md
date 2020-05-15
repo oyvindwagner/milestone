@@ -5,7 +5,7 @@ This is a static website made using HTML and CSS.
 A website with basic information for those who want to travel to, or are seeking more information about Sarek National Park in northern Sweden.
   
 ## Site owner's goal:
-To provide a simple and minimalistic website, containing the basic and necessary informational on starting a journey towards the park.  
+To provide a simple and minimalist website, containing the basic and necessary informational on starting a journey towards the park.  
 
 ## Website structure:
 Seeing as Sarek is a niche national park having no accommodations or facilities for tourist, this website was built for those who "know what their getting into" and as such aims to answer basic questions like "How to get there?", "What can I expect?" and so on.
