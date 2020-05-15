@@ -11,9 +11,13 @@ a, a:hover, a:focus, a:active {
   color: inherit;
 }
 
+/* Navigation */
+.navbar {
+  font-family: 'Jost', sans-serif;
+}
+/* Navigation */
 
 /* Main header */
-
 .hero-image {
   background-image: linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)), url("../images/main-header.jpg");
   height: 75%;
@@ -36,19 +40,9 @@ a, a:hover, a:focus, a:active {
   color: #ffffff;
   font-family: 'Montserrat', sans-serif;
 }
-
 /* Main header */
 
-/* Navigation */
-
-.navbar {
-  font-family: 'Jost', sans-serif;
-}
-
-/* Navigation */
-
 /* Page sections */
-
 #facts { 
   font-family: 'Jost', sans-serif;
   margin: 0 auto 40px;
@@ -76,12 +70,9 @@ ul {
 .my-4 {
   text-align: center;
 }
-
-
 /* Page sections */
 
 /* Compass divider */
-
 .line-icon {
   box-sizing: border-box;
   position:relative;
@@ -111,6 +102,5 @@ ul {
   -webkit-transform: translatey(-50%);
   transform: translatey(-50%);
 }
-
 /* Compass divider */
 

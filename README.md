@@ -46,16 +46,25 @@ It contains a visitor address, telephone number and social media links under a "
 ## Design
 The website is built to be easy to navigate, using a "one page" approach. Photographs are used to provide natural breaks between some sections. Also, simple icons are used in some sections to break between the introduction paragraph and the sub sections.
   
-## Built With
+## Built with
 HTML  
 CSS  
 Bootstrap  
+  
+## Testing
+
 
 ## Sources
 Text content resources:  
 https://www.sverigesnationalparker.se/  
 https://en.wikipedia.org/wiki/Sarek_National_Park  
-
+  
+### Fonts
+This website uses "Montserrat" and "Jost" retrieved from Google Fonts at https://fonts.google.com/
+  
+### Icons
+This website uses assorted icons from Font Awesome at https://fontawesome.com/
+  
 ## Images:
 All images from https://www.unsplash.com and from the following photographers:  
   
@@ -64,16 +73,15 @@ https://unsplash.com/@villepalmu
 https://unsplash.com/@wandervisions  
 https://unsplash.com/@vald  
 https://unsplash.com/@marcuslofvenberg  
-
-## Tutorials used:
-Tutorials by Michal Szymanski at https://mdbootstrap.com/user/ascensus/
-
+  
 ## Code
 Code and documentation from Bootstrap at https://getbootstrap.com/docs/4.1/  
 Page image divider code courtesy of Xahed Kamal - https://stackoverflow.com/users/3866364/xahed-kamal  
-
+Tutorials/code by Michal Szymanski at https://mdbootstrap.com/user/ascensus/  
+  
 ## Notes
-Due to being limited to using HTML and CSS, the integrated google map under the "Contact" section was integrated using iframe - this would ideally have been done using JavaScript.
+Due to being limited to using HTML and CSS, the integrated google map under the "Contact" section was integrated using iframe - this would ideally have been done using JavaScript. The map integration returns errors when the code is run through a validator, as the W3C are trying to phase out the use of iframes.
   
 This website is built for educational purposes only.  
+  
   
