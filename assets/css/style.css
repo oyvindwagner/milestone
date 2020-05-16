@@ -22,7 +22,7 @@ a, a:hover, a:focus, a:active {
 /* Main header */
 .hero-image {
   background-image: linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)), url("../images/main-header.jpg");
-  height: 90%;
+  height: 89%;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;

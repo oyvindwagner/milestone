@@ -1,3 +1,5 @@
+![](assets/images/readme-header.jpg)
+  
 # Sarek National Park Website
 This is a static website made using HTML and CSS.
 
@@ -52,7 +54,14 @@ CSS
 Bootstrap  
   
 ## Testing
-
+* http://ami.responsivedesign.is/ was used to check responsiveness on different Apple products.
+  
+* With the help of friends and family the website has been tested on different computers and mobile phones, including iPhone 12, Sony Xperia X3 Compact.
+  
+* The website has been tested on Chrome, Edge and Firefox on Windows 10 and Chrome and Firefox on Ubuntu (version 20.04).
+  
+### Known issues
+When the website link is shared via Facebook, and opened in Facebook's embedded browser this will load Google maps and not the website.
 
 ## Sources
 Text content resources:  
