@@ -53,6 +53,8 @@ The website is built to be easy to navigate, using a "one page" approach. Photog
 * CSS  
 * Bootstrap  
   
+The website was coded in Visual Studio Code - https://code.visualstudio.com/
+  
 ## Testing
 * http://ami.responsivedesign.is/ was used to check responsiveness on different Apple products.
   
@@ -61,10 +63,21 @@ The website is built to be easy to navigate, using a "one page" approach. Photog
 * The website has been tested on Chrome, Edge and Firefox on Windows 10 and Chrome and Firefox on Ubuntu (version 20.04).
 
 * Tested contact form under the "Contact" page. The form submits correctly, and returns the submitted text and correct values/name attributes on Code Institute's formdump website.
+
+* The HTML and CSS validator at W3 (https://validator.w3.org/) was used when testing the code. The only remaining errors are related to the google maps integration using iframes. This is explained separately under the "Notes" section in the readme.
   
 ### Known issues
 When the website link is shared via Facebook, and opened in Facebook's embedded browser this will load Google maps and not the website.
 
+## Deployment
+The code is hosted on my own personal GitHub page, the link to the repository is https://github.com/oyvindwagner/milestone
+  
+To achieve this I created an account on GitHub, created a new repository where the code and files for the project are hosted.
+
+The website is deployed to the internet using GitHub pages, the link to the project is https://oyvindwagner.github.io/milestone/
+  
+To achieve this I went to the "Settings" tab on the repository page, under the section "GitHub Pages" it is possible to publish the contents of the repository to the web.
+  
 ## Sources
 Text content resources:  
 https://www.sverigesnationalparker.se/  
