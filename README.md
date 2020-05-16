@@ -1,4 +1,4 @@
-![](assets/images/readme-header.jpg)
+![](assets/images/readme-image.jpg)
   
 # Sarek National Park Website
 This is a static website made using HTML and CSS.
@@ -49,16 +49,18 @@ It contains a visitor address, telephone number and social media links under a "
 The website is built to be easy to navigate, using a "one page" approach. Photographs are used to provide natural breaks between some sections. Also, simple icons are used in some sections to break between the introduction paragraph and the sub sections.
   
 ## Built with
-HTML  
-CSS  
-Bootstrap  
+* HTML  
+* CSS  
+* Bootstrap  
   
 ## Testing
 * http://ami.responsivedesign.is/ was used to check responsiveness on different Apple products.
   
-* With the help of friends and family the website has been tested on different computers and mobile phones, including iPhone 12, Sony Xperia X3 Compact.
+* With the help of friends and family the website has been tested on different computers and mobile phones, including iPhone 12, Sony Xperia Z3 Compact and Huawei P10.
   
 * The website has been tested on Chrome, Edge and Firefox on Windows 10 and Chrome and Firefox on Ubuntu (version 20.04).
+
+* Tested contact form under the "Contact" page. The form submits correctly, and returns the submitted text and correct values/name attributes on Code Institute's formdump website.
   
 ### Known issues
 When the website link is shared via Facebook, and opened in Facebook's embedded browser this will load Google maps and not the website.
