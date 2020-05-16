@@ -79,7 +79,8 @@ The website is deployed to the internet using GitHub pages, the link to the proj
 To achieve this I went to the "Settings" tab on the repository page, under the section "GitHub Pages" it is possible to publish the contents of the repository to the web.
   
 ## Sources
-Text content resources:  
+  
+### Text content resources:  
 https://www.sverigesnationalparker.se/  
 https://en.wikipedia.org/wiki/Sarek_National_Park  
   
@@ -89,7 +90,7 @@ This website uses "Montserrat" and "Jost" retrieved from Google Fonts at https:/
 ### Icons
 This website uses assorted icons from Font Awesome at https://fontawesome.com/
   
-## Images:
+### Images:
 All images from https://www.unsplash.com and from the following photographers:  
   
 https://unsplash.com/@hendrikmorkel  
@@ -98,7 +99,7 @@ https://unsplash.com/@wandervisions
 https://unsplash.com/@vald  
 https://unsplash.com/@marcuslofvenberg  
   
-## Code
+### Code
 Code and documentation from Bootstrap at https://getbootstrap.com/docs/4.1/  
 Page image divider code courtesy of Xahed Kamal - https://stackoverflow.com/users/3866364/xahed-kamal  
 Tutorials/code by Michal Szymanski at https://mdbootstrap.com/user/ascensus/  
