@@ -70,11 +70,11 @@ The website was coded in Visual Studio Code - https://code.visualstudio.com/
 When the website link is shared via Facebook, and opened in Facebook's embedded browser this will load Google maps and not the website.
 
 ## Deployment
-The code is hosted on my own personal GitHub page, the link to the repository is https://github.com/oyvindwagner/milestone
+The code is hosted on my own personal GitHub page, the link to the repository is https://github.com/oyvindwagner/sarek-national-park/
   
 To achieve this I created an account on GitHub, created a new repository where the code and files for the project are hosted.
 
-The website is deployed to the internet using GitHub pages, the link to the project is https://oyvindwagner.github.io/milestone/
+The website is deployed to the internet using GitHub pages, the link to the project is https://oyvindwagner.github.io/sarek-national-park/
   
 To achieve this I went to the "Settings" tab on the repository page, under the section "GitHub Pages" it is possible to publish the contents of the repository to the web.
   
